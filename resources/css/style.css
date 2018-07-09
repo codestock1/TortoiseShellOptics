@@ -23,7 +23,7 @@ a {
 header {
   height: 30rem;
   padding-top: 1rem;
-  background-image: url("../../images/glasses-bg.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/tortoiseshell-optics/resources/images/glasses-bg.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
